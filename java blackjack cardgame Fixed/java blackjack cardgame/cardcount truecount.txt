@@ -1,0 +1,4 @@
+((int)((maxNumberOfCards-(maxNumberOfCards-controller.checkRemainingCardsInDeck(playingdeck)))/52))
+
+
+((maxNumberOfCards-(maxNumberOfCards-controller.checkRemainingCardsInDeck(playingdeck)))/52)
